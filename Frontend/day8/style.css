@@ -1,0 +1,14 @@
+.abc {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1080px;
+}
+.abc > div {
+    border: 1px solid grey;
+    padding: 0px;
+    margin: 0;
+    width: 40px;
+    height: 40px;
+    background-color: blue;
+    cursor: pointer;
+}

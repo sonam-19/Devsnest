@@ -1,0 +1,25 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;
+}
+.container{
+  display:inline-block;
+  text-align: center;
+  margin:100px 150px;
+  box-shadow: 10px 40px 60px;
+}
+.image{
+  margin:20px;
+}
+h1{
+  margin:20px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 60px;
+  font-family: bold;
+}
+h3{
+  margin:10px;
+}
+
+
